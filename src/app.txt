@@ -1,0 +1,10 @@
+Educational App v1.0
+====================
+
+Module: Core
+Status: Initialized
+
+[System Log]
+- System started.
+- Waiting for user input...
+- Ready.
